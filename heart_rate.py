@@ -15,3 +15,5 @@ max_rate = 220 - age
 low_rate = int(max_rate * .65)
 high_rate = int(max_rate * .85)
 print(f"When you exercise to strengthen your heart, you should keep your heart rate between {low_rate} and {high_rate} beats per minute.")
+ 
+print("test")
